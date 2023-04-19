@@ -47,7 +47,7 @@ const users = [
         mail: "sidi@exemple.com ",
         solde: 5000,
         trans: [
-            // {numero:1, date: "08/12/23", sens:1, montant:12000},            
+            {numero:1, date: "08/12/23", sens:1, montant:12000},            
         ],
         imgProfil: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80 "
     },
@@ -59,7 +59,7 @@ const users = [
         mail: "oumar@exemple.com ",
         solde: 1000,
         trans: [
-            // {numero:2, date: "08/12/23o", sens:1, montant:12000},           
+            {numero:2, date: "08/12/23o", sens:1, montant:12000},           
 
         ],
         imgProfil: "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80    "
@@ -72,7 +72,7 @@ const users = [
         mail: "fatou@exemple.com ",
         solde: 0,
         trans: [
-            // {numero:3, date: "08/12/23 f", sens:-1, montant:12000},
+            {numero:3, date: "08/12/23 f", sens:-1, montant:12000},
 
 
         ],
@@ -86,7 +86,7 @@ const users = [
         mail: "sidi@exemple.com ",
         solde: 20000,
         trans: [
-            // {numero:4, date: "08/12/23 k", sens:1, montant:12000},          
+            {numero:4, date: "08/12/23 k", sens:1, montant:12000},          
         ],
         imgProfil: "https://images.unsplash.com/photo-1613005798967-632017e477c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
